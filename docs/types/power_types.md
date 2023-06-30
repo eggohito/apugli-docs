@@ -33,9 +33,10 @@ Unless stated otherwise, each power type supports a condition field that can che
 - [Action On Durability Change](action_on_durability_change)
 - [Action On Equip](action_on_equip)
 - [Action On Projectile Hit](action_on_projectile_hit)
-- [Action On Target Death](action_on_target_death)
 - [Action On Tame Hit](action_on_tame_hit)
+- [Action On Target Death](action_on_target_death)
 - [Action When Tame Hit](action_when_tame_hit)
+- [Client Action Over Time](client_action_over_time)
 - [Projectile Action Over Time](projectile_action_over_time)
 
 #### Modifying types
